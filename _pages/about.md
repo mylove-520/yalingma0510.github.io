@@ -230,6 +230,7 @@ Reviewer for Journals:
 - IEEE Transactions on Wireless Communications.
 - IEEE Internet of Things Journal.
 - ACM Transactions on Sensor Networks.
+- High-Confidence Computing Journal.
 
 # 🔗 Links
 ## XNS Lab Mates:
