@@ -21,11 +21,15 @@ redirect_from:
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
 
-I’m a Phd candidate majoring in Control Science and engineering
+
+
 2025-2026 visiting Ph.d at Trinity College Dublin, supervised by Prof. [Siyuan Zhan](https://scholar.google.com/citations?user=P1Quz6AAAAAJ&hl=en).
+
 2020-2026 MSc. & Ph.D  at Beijing Institute of Technology, supervised by Prof. [Li Dai](https://scholar.google.com/citations?user=WDrzqT8AAAAJ&hl=zh-CN) & [Prof. Yuanqing Xia](https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN).
-2016-2020 B. Eng. at University of Science and Technology Beijing
-Innovative researcher with 10 years of experience in Computing and Control, specializing in Model Predictive and Mode-switching Control, Cloud-Edge Computing, IoV, and Energy Management. Skilled in Robotics Control and Machine Learning, with strong capabilities in research design, independent development, and cross-team collaboration. Achievements include 10+ SCI papers, 2 patents, 1 software copyright, and leadership of 2 research projects with key contribution to another. Proficient in Python, MATLAB, and C programming, experienced in electronic system design.
+
+2016-2020 B. Eng. at University of Science and Technology Beijing.
+
+I’m a Phd candidate majoring in Control Science and engineering. Innovative researcher with 10 years of experience in Computing and Control, specializing in Model Predictive and Mode-switching Control, Cloud-Edge Computing, IoV, and Energy Management. Skilled in Robotics Control and Machine Learning, with strong capabilities in research design, independent development, and cross-team collaboration. Achievements include 10+ SCI papers, 2 patents, 1 software copyright, and leadership of 2 research projects with key contribution to another. Proficient in Python, MATLAB, and C programming, experienced in electronic system design.
 If you are seeking any form of academic communication or cooperation, please feel free to email me at [ma1821989042@gmail.com](mailto:ma1821989042@gmail.com).
 <img width="7053" height="62" alt="image" src="https://github.com/user-attachments/assets/6811a5c9-c9a5-4306-9762-66da982fe120" />
 
