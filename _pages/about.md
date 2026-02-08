@@ -20,7 +20,7 @@ redirect_from:
 # 🧑‍🎓 About Me 
 2025-2026 visiting PhD at Trinity College Dublin, supervised by Prof. [Siyuan Zhan](https://scholar.google.com/citations?user=P1Quz6AAAAAJ&hl=en).
 
-2020-2026 MSc/PhD at Beijing Institute of Technology, supervised by Prof. [Li Dai](https://scholar.google.com/citations?user=WDrzqT8AAAAJ&hl=zh-CN) & [Prof. Yuanqing Xia](https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN).
+2020-2026 MSc/PhD at Beijing Institute of Technology, supervised by Prof. [Li Dai](https://scholar.google.com/citations?user=WDrzqT8AAAAJ&hl=zh-CN) & Prof. [Yuanqing Xia](https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN).
 
 2016-2020 B. Eng. at University of Science and Technology Beijing.
 
