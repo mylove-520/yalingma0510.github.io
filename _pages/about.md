@@ -56,6 +56,7 @@ If you are seeking any form of academic communication or cooperation, please fee
 ---
 **Yaling Ma**; Li Dai; Huahui Xie, Huan Yang; Siyuan Zhan, Junxiao Zhao;  Yuanqing Xia
 </div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fig.009.png' alt="sym" width="100%"></div></div>
@@ -73,6 +74,7 @@ If you are seeking any form of academic communication or cooperation, please fee
 
 ---
 **Yaling Ma**; Huan Yang; Junxiao Zhao; Huahui Xie; Li Dai; Yuanqing Xia
+</div>
 </div>
 
 
