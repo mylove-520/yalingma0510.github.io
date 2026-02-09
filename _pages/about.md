@@ -52,11 +52,8 @@ If you are seeking any form of academic communication or cooperation, please fee
 
 | 中科院一区 | Aug.1, 2025| |
 
-Yaling Ma, et al.<img width="238" height="62" alt="image" src="https://github.com/user-attachments/assets/e6ea5d4b-bf05-4588-838f-4edb8185b767" />
-
 ---
-
-Haosong Peng, Hao Li, Yalun Dai, Yushi Lan, Yihang Luo, **Tianyu Qi**, Zhengshen Zhang, Yufeng Zhan, Junfei Zhang, Wenchao Xu, Ziwei Liu
+Yaling Ma, et al.<img width="238" height="62" alt="image" src="https://github.com/user-attachments/assets/e6ea5d4b-bf05-4588-838f-4edb8185b767" />
 </div>
 </div>
 
