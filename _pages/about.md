@@ -48,13 +48,13 @@ If you are seeking any form of academic communication or cooperation, please fee
 
 ---
 |---|---|---|
+
 |IEEE Internet of Things Journal|IF=8.2| JCR-Q1 |
 
 | 中科院一区 | Aug.1, 2025| |
 
 ---
-Yaling Ma, et al.<img width="238" height="62" alt="image" src="https://github.com/user-attachments/assets/e6ea5d4b-bf05-4588-838f-4edb8185b767" />
-</div>
+Yaling Ma, et al.
 </div>
 
 
