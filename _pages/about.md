@@ -45,14 +45,10 @@ If you are seeking any form of academic communication or cooperation, please fee
 <div class='paper-box-text' markdown="1">
 
 **Failure-Resilient Self-Triggered Control with Cloud NMPC and Edge LMPC under Intermittent Availability**
-
 ---   
-|---|---|---|
-
 |IEEE Transactions on Systems Man Cybernetics-Systems|IF=8.7| JCR-Q1 |
-
+---   
 | 中科院一区 TOP | Jan.30, 2026|Under Review|
-
 ---
 **Yaling Ma**; Li Dai; Huahui Xie, Huan Yang; Siyuan Zhan, Junxiao Zhao;  Yuanqing Xia
 </div>
@@ -65,13 +61,9 @@ If you are seeking any form of academic communication or cooperation, please fee
 **[Cloud-Edge Cooperative MPC With Event-Triggered Strategy for Large-Scale Complex Systems](https://doi.org/10.1109/JIOT.2025.3573692)**
 
 ---
-
-|---|---|---|---|
-
 |IEEE Internet of Things Journal| | | |
-
+---
 |IF=8.2| JCR-Q1 | 中科院一区 | Aug.1, 2025|
-
 ---
 **Yaling Ma**; Huan Yang; Junxiao Zhao; Huahui Xie; Li Dai; Yuanqing Xia
 </div>
@@ -85,7 +77,6 @@ If you are seeking any form of academic communication or cooperation, please fee
 
 ---
 
-|---|---|---|
 
 |IEEE Transactions on Automation Science and Engineering|IF=5.9| JCR-Q1 |
 
@@ -105,8 +96,6 @@ If you are seeking any form of academic communication or cooperation, please fee
 
 ---
 
-|---|---|---|
-
 |IEEE Internet of Things Journal|IF=11| JCR-Q1 |
 
 | 中科院一区 | Jun.15, 2023| |
@@ -116,91 +105,8 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2025</div><img src='images/fig.006.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**[Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework](https://arxiv.org/abs/2412.05546)**
-
----
-
-Submitted to IEEE Transactions on Services Computing
-
-|JCR-Q1|(coming soon)|
-
----
-
-Haosong Peng\*, **Tianyu Qi\***, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCC 2025</div><img src='images/fig.003.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Robin: An Efficient Hierarchical Federated Learning Framework via a Learning-based Synchronization Scheme](https://ieeexplore.ieee.org/abstract/document/11017685)**
-
----
-
-2025 IEEE Transactions on Cloud Computing
-
-|JCR-Q1|29-05-2025|
-
----
-
-**Tianyu Qi**, Yufeng Zhan, Peng Li, Yuanqing Xia
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fig.005.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[TSO: Self-Training with Scaled Preference Optimization](https://arxiv.org/pdf/2409.02118)**
-
----
-
-Arxiv
-
-(coming soon)
-
----
-
-Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2024</div><img src='images/fig.004.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Cloud-Edge Cooperative MPC With Event-Triggered Strategy for Large-Scale Complex Systems](https://doi.org/10.1109/JIOT.2025.3573692)**
-
----
-|IEEE Internet of Things Journal|IF=8.2| JCR-Q1 |
-
-|中科院一区 | Aug.1, 2025|
-
-**Tianyu Qi**, Yufeng Zhan, Peng Li, Jingcai Guo, Yuanqing Xia
----
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2023</div><img src='images/fig.002.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learning](https://ieeexplore.ieee.org/abstract/document/10272466)**
-
----
-
-2023 IEEE International Conference on Distributed Computing Systems
-
-|CCF-B|18-07-2023|<a href="https://QiTianyu-0403.github.io/slides/ICDCS2023_slide.pdf" target="_blank"><b>Slide</b></a>|
-
-**Tianyu Qi**, Yufeng Zhan, Peng Li, Jingcai Guo, Yuanqing Xia
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCC 2022</div><img src='images/fig.001.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCC 2022</div><img src='images/fig.001.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[The Research on Approximating the Real Network Degree Distribution Level Based on DCSBM](https://ieeexplore.ieee.org/abstract/document/9902866)**
@@ -213,7 +119,7 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 
 **Tianyu Qi**, Hongwei Zhang, Yufeng Zhan, Yuanqing Xia
 </div>
-</div>
+</div> -->
 
 ## 📁 Patents
 - [An edge intelligent optimization method and device](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(issued), Yufeng Zhan, Jiasheng Wang, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia, 2023.01.24, CN115357402B
