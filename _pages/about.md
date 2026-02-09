@@ -44,6 +44,23 @@ If you are seeking any form of academic communication or cooperation, please fee
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fig.009.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+**Failure-Resilient Self-Triggered Control with Cloud NMPC and Edge LMPC under Intermittent Availability**
+
+---   
+|---|---|---|
+
+|IEEE Transactions on Systems Man Cybernetics-Systems|IF=8.7| JCR-Q1 |
+
+| 中科院一区 TOP | Jan.30, 2026|Under Review|
+
+---
+**Yaling Ma**; Li Dai; Huahui Xie, Huan Yang; Siyuan Zhan, Junxiao Zhao;  Yuanqing Xia
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fig.009.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **[Cloud-Edge Cooperative MPC With Event-Triggered Strategy for Large-Scale Complex Systems](https://doi.org/10.1109/JIOT.2025.3573692)**
 
 ---
@@ -54,7 +71,7 @@ If you are seeking any form of academic communication or cooperation, please fee
 | 中科院一区 | Aug.1, 2025| |
 
 ---
-Yaling Ma, et al.
+**Yaling Ma**; Huan Yang; Junxiao Zhao; Huahui Xie; Li Dai; Yuanqing Xia
 </div>
 
 
@@ -72,7 +89,7 @@ Yaling Ma, et al.
 | 中科院二区 | May.17, 2024| |
 
 ---
-Yaling Ma, et al.
+**Yaling Ma**; Li Dai; Huan Yang; Junxiao Zhao; Runze Gao; Yuanqing Xia
 
 </div>
 </div>
@@ -81,15 +98,17 @@ Yaling Ma, et al.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2025</div><img src='images/fig.007.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Sylva: Tailoring Personalized Adversarial Defense in Pre-trained Models via Collaborative Fine-tuning](https://dl.acm.org/doi/abs/10.1145/3719027.3744805)**
+**[Cloud-Based Computational Model Predictive Control Using a Parallel Multiblock ADMM Approach](https://doi.org/10.1109/JIOT.2023.3238508)**
 
 ---
 
-2025 ACM Conference on Computer and Communications Security   
+|---|---|---|
 
-|CCF-A|13-10-2025|<a href="https://QiTianyu-0403.github.io/slides/CCS2025.pdf" target="_blank"><b>Slide</b></a>|
+|IEEE Internet of Things Journal|IF=11| JCR-Q1 |
 
-**Tianyu Qi**, Lei Xue, Yufeng Zhan, Xiaobo Ma
+| 中科院一区 | Jun.15, 2023| |
+---
+Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 </div>
 </div>
 
