@@ -61,15 +61,19 @@ Yaling Ma, et al.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fig.008.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Lorica: A Synergistic Fine-Tuning Framework for Advancing Personalized Adversarial Robustness](https://arxiv.org/abs/2506.05402)**
+**[Cloud-Edge Cooperative MPC for Large-Scale Complex Systems With Input Nonlinearity](https://doi.org/10.1109/TASE.2024.3400598)**
 
 ---
 
-Submitted to IEEE Transactions on Dependable and Secure Computing
+|---|---|---|
 
-|Arxiv|Coming Soon|
+|IEEE Transactions on Automation Science and Engineering|IF=5.9| JCR-Q1 |
 
-**Tianyu Qi**, Lei Xue, Yufeng Zhan, Xiaobo Ma
+| 中科院二区 | May.17, 2024| |
+
+---
+Yaling Ma, et al.
+
 </div>
 </div>
 
