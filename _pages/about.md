@@ -136,7 +136,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 - [A predictive control method for vehicle platooning based on cloud-edge collaboration](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(Accepted), Li Dai (Supervisor), Junxiao Zhao, **Yaling Ma**. 2023113383928, China, 2023. 
 
 - [Intelligent detection robot system software](https://www.ccopyright.com.cn/)(Issued), Hui Li (Supervisor), Yaling Ma. 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
 # 🏷 Projects
 1. **Cloud–Edge Collaborative Model Predictive Control for Energy Management of Electric Vehicles** *（PI, 2022YCXY006, Graduate Research Innovation Program, Beijing Institute of Technology, 2022–2023）*
 - **Summary**: Developed a cloud–edge NMPC framework enabling distributed deployment and seamless controller switching, advancing scalable and reliable real-time EV energy management.
