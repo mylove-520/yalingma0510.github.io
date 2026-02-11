@@ -18,12 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About Me 
+📖 Educations
+
 *2025-2026* visiting PhD in Mechanical manufacturing and biomedical engineering at Trinity College Dublin, supervised by Prof. [Siyuan Zhan](https://scholar.google.com/citations?user=P1Quz6AAAAAJ&hl=en)**(QS 75)**.
 
 *2020-2026* MSc/PhD in Automation major at Beijing Institute of Technology, supervised by Prof. [Li Dai](https://scholar.google.com/citations?user=WDrzqT8AAAAJ&hl=zh-CN) & Prof. [Yuanqing Xia](https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN) **(Outstanding Student)**.
 
 *2016-2020* B. Eng. in Automation major at University of Science and Technology Beijing **(GPA: 3.67/4)**.
-
+---
 I’m a Phd candidate majoring in Control Science and engineering. Innovative researcher with 10 years of experience in Computing and Control, specializing in Model Predictive and Mode-switching Control, Cloud-Edge Computing, IoV, and Energy Management. Skilled in Robotics Control and Machine Learning, with strong capabilities in research design, independent development, and cross-team collaboration. Achievements include 10+ SCI papers, 2 patents, 1 software copyright, and leadership of 2 research projects with key contribution to another. Proficient in Python, MATLAB, and C programming, experienced in electronic system design.
 If you are seeking any form of academic communication or cooperation, please feel free to email me at [ma1821989042@gmail.com](mailto:ma1821989042@gmail.com).
 <img width="7053" height="62" alt="image" src="https://github.com/user-attachments/assets/6811a5c9-c9a5-4306-9762-66da982fe120" />
@@ -135,32 +137,49 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 - [Intelligent detection robot system software](https://www.ccopyright.com.cn/)(Issued), Hui Li (Supervisor), Yaling Ma. 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 # 🏷 Projects
-- *2024.12 - 2026.12*, **Smart Agriculture Management via Computing Continuum: Key Technologies and Applications. (Participate)** Supported by the [National Key Research and Development Program of China](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E9%87%8D%E7%82%B9%E7%A0%94%E5%8F%91%E8%AE%A1%E5%88%92). Responsible for adversarial defense design using pre-trained models to secure smart agriculture systems.
-- *2022.01 - 2024.12*, **Research on key methods of incentive mechanism for federated learning sustainable training. (Participate)** Supported by the [Young Scientists Fund of the National Natural Science Foundation of China](https://www.nsfc.gov.cn/publish/portal0/xmzn/2020/05/). Responsible for the optimization research of federated learning algorithm based on reinforcement learning.
-- *2022.09 - 2022.12*, **Comprehensive Study of Reinforcement Learning Applications in Aviation. (Participate)** Supported by the [China's aviation system engineering research institute](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%A9%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E7%A0%94%E7%A9%B6%E6%89%80/9865501). Responsible for researching on UAV path planning based on reinforcement learning.
-- *2021.03 - 2022.03*, **Cloud-side collaborative software design. (Participate)** Supported by the [China Unicom](http://www.chinaunicom.com.cn/index.html). Responsible for researching on task scheduling algorithm in Cloud-Edge collaborative environment.
-- *2018.05 - 2021.12*, **Data-driven cloud data center intelligent management technology and platform. (Participate)** Supported by the [National Key Research and Development Program of China](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E9%87%8D%E7%82%B9%E7%A0%94%E5%8F%91%E8%AE%A1%E5%88%92). Responsible for the optimization of the task graph classification algorithm in the scheduling algorithm.
+1. **Cloud–Edge Collaborative Model Predictive Control for Energy Management of Electric Vehicles** *（PI, 2022YCXY006, Graduate Research Innovation Program, Beijing Institute of Technology, 2022–2023）*
+- **Summary**: Developed a cloud–edge NMPC framework enabling distributed deployment and seamless controller switching, advancing scalable and reliable real-time EV energy management.
+- **Achievements**: Selected Excellent Project; 1 SCI paper(IEEE IoTJ); 1 Invention Patent. 
+2. **Design and Development of an Intelligent Detection Robot System **
+    *(PI, Undergraduate National Innovation Training Program, 2018-2019)*
+- **Summary**: Designed embedded and PC-based control software enabling autonomous perception, human–machine interaction, obstacle avoidance, and path-following for a smart robotic platform.
+- **Achievements**: 2 EI-indexed papers; 1 Software Copyright (2019SR0652418).
+3. **Distributed Model Predictive Control for Networked Control Systems **
+      *(Research Member, NSFC Grant 62173036, 2022.01–2025.12)*
+      
 # 🎖 Honors and Awards
-- *2024.06* Outstanding graduates of Beijing Institute of Technology. (Top 10%)
-- *2023.11* Society scholarship of Bank of China, 2023.
-- *2023.08* Third Prize of China Computer Game Competition, 2023.
-- *2023.06* Third Prize in the National Mathorcup Mathematical Modeling Competition, 2023.
-- *2022.10* Excellent student of Beijing Institute of Technology, 2022.
-- *2022.10* First prize of China Computer Game Competition,2022. (Top 1%)
-- *2022.09* The special scholarship of Beijing Institute of Technology, 2022. 
-- *2021.06* Outstanding graduates of China University of Geosciences, Wuhan. (Top 1%)
-- *2020.10* Principle's scholarship of China University of Geosciences, Wuhan. (Top 3%)
+| 04/2021  | Mathematical Contest in Modeling (MCM/ICM)                              | International   | Finalist Award (2/3) |
+|----------|-------------------------------------------------------------------------|-----------------|----------------------|
+| 04/2018  | Mathematical Contest in Modeling (MCM/ICM)                              | International   | Second Prize         |
+|          |                                                                         |                 | (1/3)                |
+| 08/2019  | Siemens Cup National Smart Manufacturing Challenge Finals               | National        | Champion             |
+|          |                                                                         |                 | (1/3)                |
+| 07/2019  | Siemens Cup National Smart Manufacturing Challenge North China Division | National        | Special Prize        |
+|          |                                                                         |                 | (1/3)                |
+| 12/2023  | Huawei Cup – China Postgraduate Mathematical Contest in Modeling        | National        | Second Prize         |
+|          |                                                                         |                 | (1/3)                |
+| 06/2023  | National College Student Data Statistics and Analysis Competition       | National        | Third Prize          |
+|          |                                                                         |                 |  (1/3)               |
+| 04/2021  | MathorCup Mathematical Modeling Challenge                               | National        | Third Prize(1/3)     |
+| 12/2018  | 7th Beijing Science and Technology Innovation Works Competition         | Provincial      | Third Prize          |
+|          |                                                                         |                 | (7/12)               |
+| 03/2021  | “Century Cup” Entrepreneurship Competition,                             | University      | Bronze Award (2/12)  |
+|          | Beijing Institute of Technology                                         |                 |                      |
+| 05/2023  | “Challenge Cup” Innovation Competition,                                 | University      | Gold Award           |
+|          | Beijing Institute of Technology                                         |                 |  (2/12)              |
 
-# 📖 Educations
-- *2024.09 - Now*, Doctor in Cyber Science and Technology major, Ph.D, Sun Yat-sen University.
-- *2021.09 - 2024.06*, Master of Automation major, Postgraduate, Beijing Institute of Technology. **(Grade: 89.71/100)**
-- *2017.09 - 2021.06*, Bachelor of Automation major, Undergraduate, China University of Geosciences, Wuhan. **(GPA: 3.97/5)** 
+
 
 # 📚 Skills
-- **Software:** Matlab & Simulink, C & C++, Python, Pytorch, Bash, Linux, Docker, Latex, MS Office
-- **Language:** English (CET-6, IELTS-6.5), Chinese (Native)
+- **Programming**: AI agent, Python, MATLAB, C, Docker, SQL, LaTeX, Markdown
+- **Hardware**: FPGA, STM32, PLC, intelligent hardware circuit design & development
+- **EDA Tools**: Allegro, Altium Designer
+- **Languages**: fluent in English & Chinese
+- **Interests**: Running, badminton, swimming (fitness-oriented), 
+  music, singing, dancing, photography (creative expression)
 
-# 💻 Internships and Experiences
+
+<!--# 💻 Internships and Experiences
 
 ## Internships
 - *2024.02 - 2024.07*, [Kuaishou Technology](https://www.kuaishou.com/cn) <img src='./images/Kuaishou.png' style='width: 6em;'> , Large Language Model Interns. *Responsible for the alignment of [KwaiYii](https://github.com/kwai/KwaiYii) using Reinforcement Learning from Human Feedback (RLHF). Optimize the Direct Preference Optimization (DPO) algorithm*
@@ -184,5 +203,5 @@ Reviewer for Journals:
 
 ## Co-authors:
 - [Hao Li](https://lifuguan.github.io/)(NWPU)
-- [Yalun Dai](https://github.com/dialogueeeeee)(NTU)
+- [Yalun Dai](https://github.com/dialogueeeeee)(NTU)-->
 
