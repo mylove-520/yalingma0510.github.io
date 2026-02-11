@@ -25,6 +25,7 @@ redirect_from:
 *2020-2026* MSc/PhD in Automation major at Beijing Institute of Technology, supervised by Prof. [Li Dai](https://scholar.google.com/citations?user=WDrzqT8AAAAJ&hl=zh-CN) & Prof. [Yuanqing Xia](https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN) **(Outstanding Student)**.
 
 *2016-2020* B. Eng. in Automation major at University of Science and Technology Beijing **(GPA: 3.67/4)**.
+
 ---
 I’m a Phd candidate majoring in Control Science and engineering. Innovative researcher with 10 years of experience in Computing and Control, specializing in Model Predictive and Mode-switching Control, Cloud-Edge Computing, IoV, and Energy Management. Skilled in Robotics Control and Machine Learning, with strong capabilities in research design, independent development, and cross-team collaboration. Achievements include 10+ SCI papers, 2 patents, 1 software copyright, and leadership of 2 research projects with key contribution to another. Proficient in Python, MATLAB, and C programming, experienced in electronic system design.
 If you are seeking any form of academic communication or cooperation, please feel free to email me at [ma1821989042@gmail.com](mailto:ma1821989042@gmail.com).
