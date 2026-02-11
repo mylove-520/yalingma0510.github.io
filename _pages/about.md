@@ -61,9 +61,9 @@ If you are seeking any form of academic communication or cooperation, please fee
 **[Cloud-Edge Cooperative MPC With Event-Triggered Strategy for Large-Scale Complex Systems](https://doi.org/10.1109/JIOT.2025.3573692)**
 
 
-|IEEE Internet of Things Journal| | | |
+| IEEE Internet of Things Journal| | |IF=8.2 |
 
-|IF=8.2| JCR-Q1 | 中科院一区 |Aug.1, 2025|
+| JCR-Q1 | 中科院一区 |Aug.1, 2025|
 
 **Yaling Ma**; Huan Yang; Junxiao Zhao; Huahui Xie; Li Dai; Yuanqing Xia
 </div>
