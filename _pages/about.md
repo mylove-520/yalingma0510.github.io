@@ -40,7 +40,7 @@ If you are seeking any form of academic communication or cooperation, please fee
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 ## 📜 Articles(* denotes equal contribution)
 
@@ -137,6 +137,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 
 - [Intelligent detection robot system software](https://www.ccopyright.com.cn/)(Issued), Hui Li (Supervisor), Yaling Ma. 
 
+<span class='anchor' id='projects'></span>
 # 🏷 Projects
 1. **Cloud–Edge Collaborative Model Predictive Control for Energy Management of Electric Vehicles** *（PI, 2022YCXY006, Graduate Research Innovation Program, Beijing Institute of Technology, 2022–2023）*
 - **Summary**: Developed a cloud–edge NMPC framework enabling distributed deployment and seamless controller switching, advancing scalable and reliable real-time EV energy management.
@@ -147,30 +148,26 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 - **Achievements**: 2 EI-indexed papers; 1 Software Copyright (2019SR0652418).
 3. **Distributed Model Predictive Control for Networked Control Systems **
       *(Research Member, NSFC Grant 62173036, 2022.01–2025.12)*
-      
-# 🎖 Honors and Awards
-| 04/2021  | Mathematical Contest in Modeling (MCM/ICM)                              | International   | Finalist Award (2/3) |
-|----------|-------------------------------------------------------------------------|-----------------|----------------------|
-| 04/2018  | Mathematical Contest in Modeling (MCM/ICM)                              | International   | Second Prize         |
-|          |                                                                         |                 | (1/3)                |
-| 08/2019  | Siemens Cup National Smart Manufacturing Challenge Finals               | National        | Champion             |
-|          |                                                                         |                 | (1/3)                |
-| 07/2019  | Siemens Cup National Smart Manufacturing Challenge North China Division | National        | Special Prize        |
-|          |                                                                         |                 | (1/3)                |
-| 12/2023  | Huawei Cup – China Postgraduate Mathematical Contest in Modeling        | National        | Second Prize         |
-|          |                                                                         |                 | (1/3)                |
-| 06/2023  | National College Student Data Statistics and Analysis Competition       | National        | Third Prize          |
-|          |                                                                         |                 |  (1/3)               |
-| 04/2021  | MathorCup Mathematical Modeling Challenge                               | National        | Third Prize(1/3)     |
-| 12/2018  | 7th Beijing Science and Technology Innovation Works Competition         | Provincial      | Third Prize          |
-|          |                                                                         |                 | (7/12)               |
-| 03/2021  | “Century Cup” Entrepreneurship Competition,                             | University      | Bronze Award (2/12)  |
-|          | Beijing Institute of Technology                                         |                 |                      |
-| 05/2023  | “Challenge Cup” Innovation Competition,                                 | University      | Gold Award           |
-|          | Beijing Institute of Technology                                         |                 |  (2/12)              |
+
+<span class='anchor' id='honors-and-awards'></span>      
+## <i class="fas fa-award"></i> Honors and Awards {#honors-and-awards}
+
+| Date    | Competition                                                     | Level         | Award |
+|---------|------------------------------------------------------------------|---------------|-------|
+| 04/2021 | Mathematical Contest in Modeling (MCM/ICM)                       | International | Finalist Award (2/3) |
+| 04/2018 | Mathematical Contest in Modeling (MCM/ICM)                       | International | Second Prize (1/3) |
+| 08/2019 | Siemens Cup National Smart Manufacturing Challenge Finals        | National      | Champion (1/3) |
+| 07/2019 | Siemens Cup National Smart Manufacturing Challenge North China Division | National | Special Prize (1/3) |
+| 12/2023 | Huawei Cup – China Postgraduate Mathematical Contest in Modeling | National      | Second Prize (1/3) |
+| 06/2023 | National College Student Data Statistics and Analysis Competition | National     | Third Prize (1/3) |
+| 04/2021 | MathorCup Mathematical Modeling Challenge                        | National      | Third Prize (1/3) |
+| 12/2018 | 7th Beijing Science and Technology Innovation Works Competition  | Provincial    | Third Prize (7/12) |
+| 03/2021 | “Century Cup” Entrepreneurship Competition,<br>Beijing Institute of Technology | University | Bronze Award (2/12) |
+| 05/2023 | “Challenge Cup” Innovation Competition,<br>Beijing Institute of Technology | University | Gold Award (2/12) |
 
 
 
+<span class='anchor' id='skills'></span>
 # 📚 Skills
 - **Programming**: AI agent, Python, MATLAB, C, Docker, SQL, LaTeX, Markdown
 - **Hardware**: FPGA, STM32, PLC, intelligent hardware circuit design & development
