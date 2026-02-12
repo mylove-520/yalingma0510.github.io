@@ -3,23 +3,20 @@ main:
   - title: "About Me"
     url: "/#about-me"
   
-  - title: "Projects"
-    url: "/#-projects"
-
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "Projects"
+    url: "/#-projects"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
-
   - title: "Skills"
     url: "/#-skills"
 
-  - title: "Internships and Experiences"
-    url: "/#-internships-and-experiences"
+  # - title: "Internships and Experiences"
+  #   url: "/#-internships-and-experiences"
 
-  - title: "Links"
-    url: "/#-links"
+  # - title: "Links"
+  #   url: "/#-links"
