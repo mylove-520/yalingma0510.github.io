@@ -153,6 +153,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 
 | Date    | Competition                                                     | Level         | Award |
 |---------|------------------------------------------------------------------|---------------|-------|
+| 11/2025 | Chunhui Cup Innovation and Entrepreneurship Competition          | International | Excellence Award (5%) |
 | 04/2021 | Mathematical Contest in Modeling (MCM/ICM)                       | International | Finalist Award (2/3) |
 | 04/2018 | Mathematical Contest in Modeling (MCM/ICM)                       | International | Second Prize (1/3) |
 | 08/2019 | Siemens Cup National Smart Manufacturing Challenge Finals        | National      | Champion (1/3) |
