@@ -73,7 +73,7 @@ If you are seeking any form of academic communication or cooperation, please fee
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fig_paper2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="images/fig_paper2.jpg" alt="sym" style="max-width:100%; height:auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Cloud-Edge Cooperative MPC for Large-Scale Complex Systems With Input Nonlinearity](https://doi.org/10.1109/TASE.2024.3400598)**
