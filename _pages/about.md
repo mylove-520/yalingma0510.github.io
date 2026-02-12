@@ -74,14 +74,7 @@ If you are seeking any form of academic communication or cooperation, please fee
 
 
 
-<div class='paper-box'>
-  <div class='paper-box-image' style="height:auto; overflow:visible;">
-    <div style="height:auto;">
-      <div class="badge">TASE</div>
-        <img src='images/fig_paper2.png' alt="sym" width="100%">
-    </div>
-  </div>
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ</div><img src='images/fig_paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Cloud-Edge Cooperative MPC for Large-Scale Complex Systems With Input Nonlinearity](https://doi.org/10.1109/TASE.2024.3400598)**
