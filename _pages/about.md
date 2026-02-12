@@ -142,12 +142,10 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 1. **Cloud–Edge Collaborative Model Predictive Control for Energy Management of Electric Vehicles** *（PI, 2022YCXY006, Graduate Research Innovation Program, Beijing Institute of Technology, 2022–2023）*
 - **Summary**: Developed a cloud–edge NMPC framework enabling distributed deployment and seamless controller switching, advancing scalable and reliable real-time EV energy management.
 - **Achievements**: Selected Excellent Project; 1 SCI paper(IEEE IoTJ); 1 Invention Patent. 
-2. **Design and Development of an Intelligent Detection Robot System **
-    *(PI, Undergraduate National Innovation Training Program, 2018-2019)*
+2. **Design and Development of an Intelligent Detection Robot System** *(PI, Undergraduate National Innovation Training Program, 2018-2019)*
 - **Summary**: Designed embedded and PC-based control software enabling autonomous perception, human–machine interaction, obstacle avoidance, and path-following for a smart robotic platform.
 - **Achievements**: 2 EI-indexed papers; 1 Software Copyright (2019SR0652418).
-3. **Distributed Model Predictive Control for Networked Control Systems **
-      *(Research Member, NSFC Grant 62173036, 2022.01–2025.12)*
+3. **Distributed Model Predictive Control for Networked Control Systems **  *(Research Member, NSFC Grant 62173036, 2022.01–2025.12)*
 
 <span class='anchor' id='honors-and-awards'></span>      
 ## 🎖 Honors and Awards {#honors-and-awards}
