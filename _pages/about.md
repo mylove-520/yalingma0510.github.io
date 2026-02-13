@@ -190,16 +190,15 @@ Reviewer for Journals:
 - IEEE Transactions on Wireless Communications.
 - IEEE Internet of Things Journal.
 - ACM Transactions on Sensor Networks.
-- High-Confidence Computing Journal.
+- High-Confidence Computing Journal.-->
 
 # 🔗 Links
-## XNS Lab Mates:
-
-- [Haosong Peng](https://livioni.github.io/)(HKUST)
-- [Ruifeng Ma](https://ac.ppeak.site/)(BIT)
-- [Wei Feng](https://github.com/Couteaux123)(BIT)
 
 ## Co-authors:
-- [Hao Li](https://lifuguan.github.io/)(NWPU)
-- [Yalun Dai](https://github.com/dialogueeeeee)(NTU)-->
+- [Li Dai](https://scholar.google.com/citations?hl=en&user=WDrzqT8AAAAJ)(BIT)
+- [Huan yang](https://www.researchgate.net/scientific-contributions/Huan-Yang-2153547078)(BIT)
+- [Jinxian Wu](https://www.researchgate.net/profile/Jinxian-Wu)(BIT)
 
+## co-supervising MSc students
+- [Junxiao Zhao](https://www.researchgate.net/scientific-contributions/Junxiao-Zhao-2281957378)(BIT)
+- [Hanli Chen](https://scholar.google.com/citations?user=zXNGrdMAAAAJ&hl=en)(BIT)
