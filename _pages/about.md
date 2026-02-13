@@ -19,7 +19,7 @@ redirect_from:
 
 # 🧑‍🎓 About Me 
 📖 Educations
-<!--https://favicon.io/favicon-generator/文字图标-->
+
 *2025-2026* visiting PhD in Mechanical manufacturing and biomedical engineering at Trinity College Dublin, supervised by Prof. [Siyuan Zhan](https://scholar.google.com/citations?user=P1Quz6AAAAAJ&hl=en)**(QS 75)**.
 
 *2020-2026* MSc/PhD in Automation major at Beijing Institute of Technology, supervised by Prof. [Li Dai](https://scholar.google.com/citations?user=WDrzqT8AAAAJ&hl=zh-CN) & Prof. [Yuanqing Xia](https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN) **(Outstanding Student)**.
