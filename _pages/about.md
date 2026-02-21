@@ -22,7 +22,8 @@ redirect_from:
 
 *2025-2026* visiting PhD in Mechanical manufacturing and biomedical engineering at Trinity College Dublin **(QS 75)**, supervised by Prof. [Siyuan Zhan](https://scholar.google.com/citations?user=P1Quz6AAAAAJ&hl=en).
 
-*2020-2026* MSc/PhD in Automation major at Beijing Institute of Technology **(Outstanding Student)**, supervised by Prof. [Li Dai](https://scholar.google.com/citations?user=WDrzqT8AAAAJ&hl=zh-CN) & Prof. [Yuanqing Xia](https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN).
+*2020-2026* MSc/PhD in Automation major at Beijing Institute of Technology **(Outstanding Student)**, supervised by Prof. [Li Dai](https://scholar.google.com/citations?user=WDrzqT8AAAAJ&hl=zh-CN).
+<!-- & Prof. [Yuanqing Xia](https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN)-->
 
 *2016-2020* B. Eng. in Automation major at University of Science and Technology Beijing **(GPA: 3.67/4)**.
 
