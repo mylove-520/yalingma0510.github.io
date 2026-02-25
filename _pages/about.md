@@ -130,6 +130,8 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 6. Chang Xi, Li Dai, Junxiao Zhao, Hanli Chen, Yaling Ma, et al.  "A Cloud–Edge–Vehicle Framework for Task Offloading With Trajectory Prediction Information," IEEE Internet of Things Journal, vol. 12, no. 20, pp. 42844-42862, Oct.15, 2025, IF=8.2, DOI: 10.1109/JIOT.2025.3596187.
 7. Jinxian Wu, Li Dai*, Yaling Ma, et al. “Distributed Fuzzy Clustering Based Association Rule Mining: Design, Deployment and Implementation,”  In Proceedings of 2021 China Automation Congress, DOI: 10.1109/CAC53003.2021.9728421.
 
+<img width="7053" height="62" alt="image" src="https://github.com/user-attachments/assets/6811a5c9-c9a5-4306-9762-66da982fe120" />
+
 ## 📁 Patents & software copyright
 - [A Vehicle Energy Management Method Based on Container Cloud and Model Predictive Control
 ](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(Issued), Li Dai (Supervisor), **Yaling Ma**. 202210816336X, China, 2025. 
@@ -138,6 +140,8 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 - [A predictive control method for vehicle platooning based on cloud-edge collaboration](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(Accepted), Li Dai (Supervisor), Junxiao Zhao, **Yaling Ma**. 2023113383928, China, 2023. 
 
 - [Intelligent detection robot system software](https://www.ccopyright.com.cn/)(Issued), Hui Li (Supervisor), Yaling Ma. 
+
+<img width="7053" height="62" alt="image" src="https://github.com/user-attachments/assets/6811a5c9-c9a5-4306-9762-66da982fe120" />
 
 # 🏷 Projects
 
@@ -173,7 +177,9 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 - **Summary**: Contributed to the conceptualization and proposal drafting of the NSFC project; formulated distributed optimization algorithms and designed hierarchical architectures for Networked Control Systems (NCS); conducted rigorous theoretical analysis of recursive feasibility and closed-loop stability; orchestrated collaborative research and technical exchanges among a team of junior students.
 - **Achievements**: Published 1 high-impact paper in **IEEE Internet of Things Journal (IOTJ, IF: 10.6)**; developed a robust control framework for large-scale networked industrial applications.
 
-# 🎖 Honors and Awards
+<img width="7053" height="62" alt="image" src="https://github.com/user-attachments/assets/6811a5c9-c9a5-4306-9762-66da982fe120" />
+
+# 🏅 Honors and Awards
 
 | Date    | Competition                                                     | Level         | Award |
 |---------|------------------------------------------------------------------|---------------|-------|
