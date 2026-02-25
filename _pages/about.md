@@ -145,31 +145,36 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 
 # 🏷 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/robocon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/cloud-edge-vehicle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-1. **Cloud–Edge Collaborative Model Predictive Control for Energy Management of Electric Vehicles** *（PI, 2022YCXY006, Graduate Research Innovation Program, Beijing Institute of Technology, 2022–2023）*
+**Cloud–Edge Collaborative Model Predictive Control for Energy Management of Electric Vehicles** *（PI, 2022YCXY006, Graduate Research Innovation Program, Beijing Institute of Technology, 2022–2023）*
 - **Summary**: Developed a cloud–edge NMPC framework enabling distributed deployment and seamless controller switching, advancing scalable and reliable real-time EV energy management.
 - **Achievements**: Selected Excellent Project; 1 SCI paper(IEEE IoTJ); 1 Invention Patent.
 </div> 
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/robocon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-2. **ABU ROBOCON** *(Core Member, ROBOCON Robotics Lab, 2017-2018)*
+ **ABU ROBOCON** *(Core Member, ROBOCON Robotics Lab, 2017-2018)*
 - **Summary**: Engineered and optimized mission-critical hardware modules for competition robots, including power management circuits, gyroscope integration boards, and Zigbee-based wireless transparent transmission baseboards; performed full-cycle PCB design and system debugging.
 - **Achievements**: National Second Prize in the ABU ROBOCON (China).
 </div> 
 </div>
-3. **Pressure Detection Module for Medical Exoskeleton Robots** *(Developer, Digital Measurement Joint Lab, 2018-2019)*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/pressure_robot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Pressure Detection Module for Medical Exoskeleton Robots** *(Developer, Digital Measurement Joint Lab, 2018-2019)*
 - **Summary**: Developed a high-precision pressure sensing system utilizing STM32 microcontrollers; implemented real-time data acquisition and signal analysis algorithms to enhance the tactile feedback of medical skeletal robotic systems.
 - **Achievements**: Successfully transitioned the prototype into a commercialized product for online retail. 
-4. **Intelligent Detection Robot System** *(PI, Undergraduate National Innovation Training Program, 2018-2019)*
-- **Summary**: Designed embedded and PC-based control software enabling autonomous perception, human–machine interaction, obstacle avoidance, and path-following for a smart robotic platform.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/detection_robot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ **Intelligent Detection Robot System** *(PI, Undergraduate National Innovation Training Program, 2018-2019)*
+- **Summary**: Designed embedded and PC-based control software enabling autonomous perception, environment awareness, human face detection, human–machine interaction, obstacle avoidance, and path-following for a smart robotic platform.
 - **Achievements**: 2 EI-indexed papers; 1 Software Copyright (2019SR0652418).
-5. **Industrial Network Architecture and System Optimization** *(Lead Developer, Siemens Cup Intelligent Manufacturing Challenge, 2019.07-2019.08)*
+</div> 
+</div>
+1. **Industrial Network Architecture and System Optimization** *(Lead Developer, Siemens Cup Intelligent Manufacturing Challenge, 2019.07-2019.08)*
 - **Summary**: Designed and deployed complex industrial network schemes; performed configuration and cross-layer debugging for large-scale industrial communication systems to ensure high reliability and low latency in smart manufacturing environments.
 - **Achievements**: National Champion (Grand Prize / Rank 1st Nationwide).
-6. **Distributed Model Predictive Control for Networked Control Systems** *(Key Researcher, NSFC Grant 62173036, 2022.01–2025.12)*
+2. **Distributed Model Predictive Control for Networked Control Systems** *(Key Researcher, NSFC Grant 62173036, 2022.01–2025.12)*
 - **Summary**: Contributed to the conceptualization and proposal drafting of the NSFC project; formulated distributed optimization algorithms and designed hierarchical architectures for Networked Control Systems (NCS); conducted rigorous theoretical analysis of recursive feasibility and closed-loop stability; orchestrated collaborative research and technical exchanges among a team of junior students.
 - **Achievements**: Published 1 high-impact paper in **IEEE Internet of Things Journal (IOTJ, IF: 10.6)**; developed a robust control framework for large-scale networked industrial applications.
 
