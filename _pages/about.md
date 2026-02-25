@@ -141,29 +141,29 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 
 # 🏷 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE</div><img src='images/robocon.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE</div><img src='images/robocon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
   
 1. **Cloud–Edge Collaborative Model Predictive Control for Energy Management of Electric Vehicles** *（PI, 2022YCXY006, Graduate Research Innovation Program, Beijing Institute of Technology, 2022–2023）*
 - **Summary**: Developed a cloud–edge NMPC framework enabling distributed deployment and seamless controller switching, advancing scalable and reliable real-time EV energy management.
 - **Achievements**: Selected Excellent Project; 1 SCI paper(IEEE IoTJ); 1 Invention Patent.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE</div><img src='images/robocon.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE</div><img src='images/robocon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
   
 2. **Hardware System Design and Development for ABU ROBOCON** *(Core Member, ROBOCON Robotics Lab, 2017-2018)*
 - **Summary**: Engineered and optimized mission-critical hardware modules for competition robots, including power management circuits, gyroscope integration boards, and Zigbee-based wireless transparent transmission baseboards; performed full-cycle PCB design and system debugging.
 - **Achievements**: National Second Prize in the ABU ROBOCON (China).
 - 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE</div><img src='images/robocon.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE</div><img src='images/robocon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
   
 3. **Development of Pressure Detection Module for Medical Exoskeleton Robots** *(Developer, Digital Measurement Joint Lab, 2018-2019)*
 - **Summary**: Developed a high-precision pressure sensing system utilizing STM32 microcontrollers; implemented real-time data acquisition and signal analysis algorithms to enhance the tactile feedback of medical skeletal robotic systems.
 - **Achievements**: Successfully transitioned the prototype into a commercialized product for online retail.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE</div><img src='images/robocon.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE</div><img src='images/robocon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
   
 
 4. **Design and Development of an Intelligent Detection Robot System** *(PI, Undergraduate National Innovation Training Program, 2018-2019)*
