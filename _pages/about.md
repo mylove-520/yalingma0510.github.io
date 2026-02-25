@@ -164,6 +164,8 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 **Pressure Detection Module for Medical Exoskeleton Robots** *(Developer, Digital Measurement Joint Lab, 2018-2019)*
 - **Summary**: Developed a high-precision pressure sensing system utilizing STM32 microcontrollers; implemented real-time data acquisition and signal analysis algorithms to enhance the tactile feedback of medical skeletal robotic systems.
 - **Achievements**: Successfully transitioned the prototype into a commercialized product for online retail. 
+</div> 
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/detection_robot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  **Intelligent Detection Robot System** *(PI, Undergraduate National Innovation Training Program, 2018-2019)*
