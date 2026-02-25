@@ -157,7 +157,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
  **Intelligent Detection Robot System** *(PI, Undergraduate National Innovation Training Program, 2018-2019)*
 - **Summary**: Designed embedded and PC-based control software enabling autonomous perception, environment awareness, human face detection, human–machine interaction, obstacle avoidance, and path-following for a smart robotic platform.
 - **Achievements**: 2 EI-indexed papers; 1 Software Copyright (2019SR0652418).
-</div> 
+</div>  
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/robocon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
