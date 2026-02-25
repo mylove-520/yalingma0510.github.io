@@ -148,9 +148,6 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 - **Summary**: Developed a cloud–edge NMPC framework enabling distributed deployment and seamless controller switching, advancing scalable and reliable real-time EV energy management.
 - **Achievements**: Selected Excellent Project; 1 SCI paper(IEEE IoTJ); 1 Invention Patent.
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE</div><img src='images/robocon.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-  
 2. **Hardware System Design and Development for ABU ROBOCON** *(Core Member, ROBOCON Robotics Lab, 2017-2018)*
 - **Summary**: Engineered and optimized mission-critical hardware modules for competition robots, including power management circuits, gyroscope integration boards, and Zigbee-based wireless transparent transmission baseboards; performed full-cycle PCB design and system debugging.
 - **Achievements**: National Second Prize in the ABU ROBOCON (China).
