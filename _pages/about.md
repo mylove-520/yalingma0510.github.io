@@ -155,8 +155,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 2. **Hardware System Design and Development for ABU ROBOCON** *(Core Member, ROBOCON Robotics Lab, 2017-2018)*
 - **Summary**: Engineered and optimized mission-critical hardware modules for competition robots, including power management circuits, gyroscope integration boards, and Zigbee-based wireless transparent transmission baseboards; performed full-cycle PCB design and system debugging.
 - **Achievements**: National Second Prize in the ABU ROBOCON (China).
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE</div><img src='images/robocon.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+
   
 3. **Development of Pressure Detection Module for Medical Exoskeleton Robots** *(Developer, Digital Measurement Joint Lab, 2018-2019)*
 - **Summary**: Developed a high-precision pressure sensing system utilizing STM32 microcontrollers; implemented real-time data acquisition and signal analysis algorithms to enhance the tactile feedback of medical skeletal robotic systems.
