@@ -145,7 +145,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 
 # 🏷 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE</div><img src='images/robocon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/robocon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 1. **Cloud–Edge Collaborative Model Predictive Control for Energy Management of Electric Vehicles** *（PI, 2022YCXY006, Graduate Research Innovation Program, Beijing Institute of Technology, 2022–2023）*
