@@ -170,7 +170,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 
 <img width="7053" height="62" alt="image" src="https://github.com/user-attachments/assets/6811a5c9-c9a5-4306-9762-66da982fe120" />
 # 📚 Skills
-- **Programming**: AI agent, Python, MATLAB, C, Docker, SQL, LaTeX, Markdown
+- **Programming**: AI agent, Deep reinforcement learning, Python, MATLAB, C, Docker, SQL, LaTeX, Markdown
 - **Hardware**: FPGA, STM32, PLC, intelligent hardware circuit design & development
 - **EDA Tools**: Allegro, Altium Designer
 - **Languages**: fluent in English & Chinese
