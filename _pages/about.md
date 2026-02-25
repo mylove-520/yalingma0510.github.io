@@ -143,7 +143,7 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 
 <img width="7053" height="62" alt="image" src="https://github.com/user-attachments/assets/6811a5c9-c9a5-4306-9762-66da982fe120" />
 
-# 🏷 Projects
+# 📒 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/cloud-edge-vehicle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
