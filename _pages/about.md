@@ -152,6 +152,13 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 - **Achievements**: Selected Excellent Project; 1 SCI paper(IEEE IoTJ); 1 Invention Patent.
 </div> 
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/detection_robot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ **Intelligent Detection Robot System** *(PI, Undergraduate National Innovation Training Program, 2018-2019)*
+- **Summary**: Designed embedded and PC-based control software enabling autonomous perception, environment awareness, human face detection, human–machine interaction, obstacle avoidance, and path-following for a smart robotic platform.
+- **Achievements**: 2 EI-indexed papers; 1 Software Copyright (2019SR0652418).
+</div> 
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/robocon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  **ABU ROBOCON** *(Core Member, ROBOCON Robotics Lab, 2017-2018)*
@@ -164,13 +171,6 @@ Li Dai(Supervisor); **Yaling Ma**; Runze Gao; Jinxian Wu; Yuanqing Xia
 **Pressure Detection Module for Medical Exoskeleton Robots** *(Developer, Digital Measurement Joint Lab, 2018-2019)*
 - **Summary**: Developed a high-precision pressure sensing system utilizing STM32 microcontrollers; implemented real-time data acquisition and signal analysis algorithms to enhance the tactile feedback of medical skeletal robotic systems.
 - **Achievements**: Successfully transitioned the prototype into a commercialized product for online retail. 
-</div> 
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/detection_robot.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
- **Intelligent Detection Robot System** *(PI, Undergraduate National Innovation Training Program, 2018-2019)*
-- **Summary**: Designed embedded and PC-based control software enabling autonomous perception, environment awareness, human face detection, human–machine interaction, obstacle avoidance, and path-following for a smart robotic platform.
-- **Achievements**: 2 EI-indexed papers; 1 Software Copyright (2019SR0652418).
 </div> 
 </div>
 1. **Industrial Network Architecture and System Optimization** *(Lead Developer, Siemens Cup Intelligent Manufacturing Challenge, 2019.07-2019.08)*
